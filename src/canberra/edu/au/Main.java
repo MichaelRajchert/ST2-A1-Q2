@@ -10,8 +10,8 @@ import java.util.ArrayList;
 public class Main {
     public static ArrayList<String> inputData = new ArrayList<String>();
     public static ArrayList<String> exportData = new ArrayList<String>();
-    public static String inputPath = "C:/Users/Michael Rajchert/Desktop/files/unsortedList.csv";
-    public static String outputPath = "C:/Users/Michael Rajchert/Desktop/files/sortedList.csv";
+    public static String inputPath = "C:/Users/Michael Rajchert/Documents/IdeaProjects/ST2-A1-Q2/unsortedList.csv";
+    public static String outputPath = "C:/Users/Michael Rajchert/Documents/IdeaProjects/ST2-A1-Q2/sortedList.csv";
     public static StudentInfo_Class[] studentInfo = new StudentInfo_Class[21];
 
     //SORTING
